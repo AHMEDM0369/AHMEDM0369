@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AHMEDM0369
+- 👋 Hi, I’m AHMED M
 - 👀 I’m interested in frontend and blockchain development.
 - 🌱 I’m currently pursuing B.E(Computer Science Engineering) from Dayananda Sagar College Of Engineering, Bangalore 
 - 📫 Reach me via email mrahmedm09@gmail.com
