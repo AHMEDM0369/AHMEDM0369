@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AHMED M
-- 👀 I’m interested in frontend, blockchain development, data analytics and machine learning.
+- 👀 I’m interested in Data Analytics and Machine Learning.
 - 🌱 I’m B.E(Computer Science Engineering) graduate from Dayananda Sagar College Of Engineering, Bangalore 
 - 📫 Reach me via email mrahmedm09@gmail.com
 
